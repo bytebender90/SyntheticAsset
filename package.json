@@ -1,0 +1,18 @@
+{
+  "name": "defi-synth",
+  "version": "1.0.0",
+  "description": "DeFiSynth revolutionizes decentralized finance by enabling users to seamlessly trade synthetic assets representing real-world assets, offering transparent collateral management and leveraged position control within a secure, blockchain-based ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "author": "elite",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
